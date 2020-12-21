@@ -1,7 +1,7 @@
 # Tasks
 Four tasks completed for the module Fundamentals of data analytics.
 
-The tasks are well annotated withing the notebook, so I will refrain from repeating that information too much here.
+The tasks are well annotated within the notebook, so I will refrain from repeating that information too much here.
 
 # Task 1
 The first was task successful in generating a dictionary with accompanying valiues for each unique element's number of appearances in a given list. The final function was dynamic enough to deal with any list given to it, and withstood a series of tests run with a variety of input types.
