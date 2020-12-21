@@ -4,7 +4,7 @@ Four tasks completed for the module Fundamentals of data analytics.
 The tasks are well annotated within the notebook, so I will refrain from repeating that information too much here.
 
 # Task 1
-The first was task successful in generating a dictionary with accompanying valiues for each unique element's number of appearances in a given list. The final function was dynamic enough to deal with any list given to it, and withstood a series of tests run with a variety of element types.
+The first was task successful in generating a dictionary with accompanying values for each unique element's number of appearances in a given list. The final function was dynamic enough to deal with any list given to it, and withstood a series of tests run with a variety of element types.
 
 # Task 2
 The second task succeeded in taking two variables: k = Number of Dice, and n = Number of Rolls and was able to generate an aarray of outcomes. I then used the funcion from the first task to display the array in a dictionary of elements. The variables can be changed to simulate different scenarios regarding different numbers of dice and rolls.
